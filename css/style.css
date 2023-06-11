@@ -51,7 +51,13 @@ p{
     float: right;
     list-style: none;
   }
-
-
+#navbar ul li{
+    float: left;
+  }
+#navbar ul li a{
+    display: block;
+    padding: 20px;
+    text-align: center;
+  }
 
 

@@ -42,10 +42,15 @@ p{
   }
 #navbar a{
     color: #333
-    
   }
-
-
+#navbar h2{
+    float: left;
+    padding-top: 20px;
+  }
+#navbar ul{
+    float: right;
+    list-style: none;
+  }
 
 
 

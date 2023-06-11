@@ -38,13 +38,6 @@ p{
 /* navbar */
   #navbar{
     box-shadow: 0 2px 7px 0 hsla(0,0%,44.7%,.59);
-    position: relative;
-    z-index: 999;
-    position: fixed;
-    top: 0;
-    left: 0;
-    text-align: center;
-    width: 100%;
     background: #fff;
     overflow: auto;
   }

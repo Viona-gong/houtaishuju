@@ -64,9 +64,11 @@ p{
     text-decoration: none;
   }
 
-#img{
+.img{
     margin: 0 auto;
     max-width: 100%;
-    min-width: 320px;
+    min-width: 320px; 
+    width: auto;
+    height: auto;
   }
 

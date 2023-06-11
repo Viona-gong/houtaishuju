@@ -64,4 +64,9 @@ p{
     text-decoration: none;
   }
 
+#img{
+    margin: 0 auto;
+max-width: 100%;
+min-width: 320px;
+  }
 
